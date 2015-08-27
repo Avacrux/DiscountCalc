@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Discount Calculator</string>
+
+    <string name="price_tv">Base Price</string>
+    <string name="price_et">0.0</string>
+
+    <string name="finalPrice_tv">Discounted Price</string>
+    <string name="disPrice_et">0.0</string>
+
+    <string name="DiscountLevel_tv">Discount %</string>
+
+    <string name="ten_cb">10%</string>
+    <string name="twenty_cb">20%</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
